@@ -1,6 +1,6 @@
 # ============================================================
 # Title: Tweedie Model for MP Concentration (including zeros)
-# Author: [Your Name]
+# Author: Dr. Carlo Andrea Cossu
 # Description:
 # Fits a Tweedie GLM using glmmTMB to model microplastic
 # concentration including zero values. Produces diagnostics
