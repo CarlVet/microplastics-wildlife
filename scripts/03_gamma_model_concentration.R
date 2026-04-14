@@ -1,6 +1,6 @@
 # ============================================================
 # Title: Gamma GLM for MP Concentration (Sample-level, no zeros)
-# Author: [Your Name]
+# Author: Dr. Carlo Andrea Cossu
 # Description: Fits Gamma model using glmmTMB and produces
 #              diagnostic plots and publication-ready tables
 # ============================================================
